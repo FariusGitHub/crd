@@ -133,7 +133,7 @@ We will see new two custom resources as follow
 | |NAME |SHORTNAMES   |APIVERSION |NAMESPACED   |KIND
 |---|---|---|---|---   |---
 |29|namespacedfalse||farius.com/v1|false|namespacedfalse
-|30|namespaceture||farius.com/v1|true|namespaceture
+|30|namespacetrue||farius.com/v1|true|namespacetrue
 
 And we can make new resources for the two, like making below yaml 
 
