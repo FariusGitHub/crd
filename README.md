@@ -1,4 +1,4 @@
-# Kubernetes Custom Resource Definition and Intro to GO Language (Golang)
+# Kubernetes Custom Resource Definition (CRD) and Introduction to GO Language (Golang)
 
 What are Docker, Kubernetes, Terraform, Prometheus, Etcd, CockroachDB having in common? Right, they are all written in Go Language. GO's language features, performance, compatibility, and community support make it an ideal choice for developing operators and custom resources in Kubernetes.
 
