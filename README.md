@@ -453,7 +453,7 @@ There are 9 pods in the cluster
 
 Back to earlier example that we did multiple yaml file definition run them through kubectl apply, the same process can be applied with GO like below
 
-```txt
+```go
 package main
 
 import (
