@@ -1,0 +1,17 @@
+apiVersion: farius.com/v1
+kind: namespacedtrue
+metadata:
+  name: namespacedtrue-sample
+spec:
+  foo: "example"
+  bar: 123
+
+---
+
+apiVersion: farius.com/v1
+kind: namespacedfalse
+metadata:
+  name: namespacedfalse-sample
+spec:
+  foo: "example"
+  bar: 123
